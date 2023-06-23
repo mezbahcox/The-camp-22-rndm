@@ -3,7 +3,7 @@ RANDOM FACEBOOK ID CLONER BANGLADESH AND PAKISTAN
 
 TELEGRAM : https://t.me/thecamp22/
 
-Command : 
+Command :-
 ==>
 ==> apt update
 ==> apt upgrade
